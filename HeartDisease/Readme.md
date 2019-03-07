@@ -8,7 +8,7 @@ The goal is to predict the probability that a patient has heart disease for bett
 
 **Missing values** : No.
 
-**13 Attributes** :
+**Attributes** : 13
 
 1- *slope_of_peak_exercise_st_segment* (type: int): the slope of the peak exercise ST segment, an electrocardiography read out indicating quality of blood flow to the heart
 
