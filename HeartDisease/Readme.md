@@ -35,3 +35,6 @@ The goal is to predict the probability that a patient has heart disease for bett
 12- *max_heart_rate_achieved* (type: int): maximum heart rate achieved (beats per minute)
 
 13- *exercise_induced_angina* (type: binary): exercise-induced chest pain (0: False, 1: True)
+
+
+**More info : https://www.drivendata.org/competitions/54/machine-learning-with-a-heart/**
